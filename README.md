@@ -1,3 +1,4 @@
 clone_test
 ==========
-test2 test1
+
+no-ff
